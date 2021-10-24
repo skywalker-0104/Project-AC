@@ -1,5 +1,5 @@
 # Software Blueprint ;
 
-    >_  
+    >_  It's the software blueprint model for Project-Humanoid...
 
 
